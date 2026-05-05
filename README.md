@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/profile-3d-contrib/profile-south-season-animate.svg)
 
 <!-- LANGUAGE STATS -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-maria&layout=compact)
-
-<!-- CONTRIBUTIONS CALENDAR -->
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Leticia-maria&theme=react-dark&hide_border=true)
+![Top Languages](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAXwOjUWnI0hh3sE2lNO4fjVN2wDzo5LMcA&s)
 
 ---
 
