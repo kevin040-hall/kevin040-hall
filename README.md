@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 <!-- GITHUB STATS -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leticia-maria&show_icons=true&count_private=true&theme=default)
+![GitHub Stats](https:///Leticia-maria/Leticia-maria/raw/main/profile-3d-contrib/profile-south-season-animate.svg)
 
 <!-- LANGUAGE STATS -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-maria&layout=compact)
